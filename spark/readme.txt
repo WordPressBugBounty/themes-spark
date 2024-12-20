@@ -3,9 +3,9 @@
 Contributors: d5creation
 Tags: two-columns, right-sidebar, left-sidebar, footer-widgets, rtl-language-support, featured-images, custom-header, custom-background, custom-menu, threaded-comments, sticky-post, full-width-template, theme-options, translation-ready, blog, portfolio, education
 Requires at least: 5.0
-Tested up to: 6.1
+Tested up to: 6.7
 Requires PHP: 5.6
-Stable tag: 2.7
+Stable tag: 2.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,6 +31,9 @@ No, It is for Blogs, Company, Personal, Community, Forum Websites etc.
 
 
 == Changelog ==
+
+= 2.9 =
+* Code Cleanup
 
 = 2.7 =
 * Code Cleanup

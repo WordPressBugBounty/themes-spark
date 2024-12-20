@@ -37,7 +37,7 @@ caption, th, td {
 
 .alignleft {
 	float:left;
-	margin:5px 20px 20px 0;
+	margin:5px 20px 20px 0
 }
 
 .alignright {
@@ -47,11 +47,11 @@ caption, th, td {
 
 a img.alignleft {
 	float:left;
-	margin:5px 20px 20px 0;
+	margin:5px 20px 20px 0
 }
 
 a img.alignnone {
-	margin:5px 0 20px 20px;
+	margin:5px 0 20px 20px
 }
 
 a img.alignright {
@@ -65,7 +65,7 @@ a img.aligncenter {
 }
 
 .wp-caption.alignnone {
-	margin:5px 0 20px 20px;
+	margin:5px 0 20px 20px
 }
 
 .wp-caption.alignright {
@@ -73,7 +73,7 @@ a img.aligncenter {
 }
 
 .wp-caption.alignleft {
-	margin:5px 20px 20px 0;
+	margin:5px 20px 20px 0
 }
 
 #content {
